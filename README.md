@@ -1,1 +1,5 @@
-# robofolo
+# Robofolo
+
+# Project explanations
+
+# Libraries needed
